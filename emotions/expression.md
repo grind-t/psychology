@@ -16,3 +16,5 @@ Applied knowledge:
   - True smiles cause others to perceive us as trustworthy, authentic, and attractive
 - The behavioral differences between liars and truthtellers are too minute for most people to detect (only 54% accuracy)
 - Gestures, facial expressions, and vocal tones, which are absent in written communication, convey important information -> we may use voice meassge and emojis to help people better understand us
+
+- Women have greater sensitivity than men to nonverbal cues (aka more emotional)
