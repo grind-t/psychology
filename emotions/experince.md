@@ -1,0 +1,12 @@
+Key concepts:
+- There are 10 basic emotions:
+  - joy
+  - interest-excitement
+  - surprise
+  - sadness
+  - anger
+  - disgust
+  - contempt
+  - fear
+  - shame
+  - guilt
